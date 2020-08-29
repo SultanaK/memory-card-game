@@ -19,8 +19,10 @@ body{
     margin:auto;
     display:flex;
     flex-wrap: wrap;
-    border: 2px solid lime;
+
 }
+
+
 
 .memory-card{
 
@@ -28,7 +30,19 @@ body{
     height: calc(33.333% - 10px);
     margin:5px;
     position:relative;
+    transform: scale(1);
     
+}
+
+.memory-card:active{
+
+    transform: scale(.97);
+    transition: transform .2s;
+}
+
+.memory-card.flip{
+
+    transform:rotate(180deg)
 }
 
 .front-face,
