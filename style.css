@@ -7,9 +7,24 @@
 
 body{
 
-    height:100vh;
-    display:flex;
-    background:rgb(30, 30, 136);
+    height:120vh;
+    /* display:flex; */
+   /*  background:rgb(30, 30, 136); */
+    background: linear-gradient(rgb(0, 0, 141),rgb(207, 76, 43));
+}
+
+
+.content{
+
+    display: flex;
+    justify-content: center;
+    margin:5px;
+}
+
+.headline{
+    margin:4px;
+    color: rgb(223, 223, 54);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .memory-game{
