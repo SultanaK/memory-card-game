@@ -31,5 +31,5 @@ Project is created with:
 
 
 
-### You can look and clone my project-game. Thank you for visit it!
+### You can look and clone my project-game. Thank you for attention!
 
