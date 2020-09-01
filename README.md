@@ -3,7 +3,7 @@
 ## Summary
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Roadmap](#roadmap)
 
 ## General info
 Memory Card Games is a funny project to improve my Front-end skills, mostly that about Javascript.
